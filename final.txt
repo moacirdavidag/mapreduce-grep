@@ -1,0 +1,5 @@
+input0: 118
+input2: 117
+input3: 116
+input1: 111
+: NaN
